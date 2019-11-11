@@ -21,7 +21,7 @@ public class FranciscoJavierAdivino {
             }
             cont++;
         } while (n != x);
-        System.out.print("Exelente!!! Haz acertado , No. de intentos: "+cont );
+        System.out.print("Excelente!!! Has acertado , No. de intentos: "+cont );
         sc.close();
     }
 }
